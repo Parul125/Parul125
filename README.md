@@ -23,6 +23,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parul125&show_icons=true&locale=en&layout=compact" alt="parul125" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parul125&" alt="parul125" /></p>
----
-
-### :fire: My Stats :
