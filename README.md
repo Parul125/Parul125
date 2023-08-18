@@ -23,3 +23,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parul125&show_icons=true&locale=en&layout=compact" alt="parul125" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parul125&" alt="parul125" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Parul125&show_icons=true&locale=en&layout=compact" alt="Parul125" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Parul125&show_icons=true&locale=en" alt="Parul125" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Parul125&" alt="Parul125" /></p>
