@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **parulbhandari125@gmail.com**
 
-- ⚡ Fun fact **I thin I Love To Code**
+- ⚡ Fun fact **I Think I Love To Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
