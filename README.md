@@ -9,13 +9,13 @@
 
 
 
-- 🔭 I’m currently working on **WordPress Development**
+- 🔭 I’m currently working on **WordPress & FrontEnd Development alongside Data Analysis**
 
-- 🌱 I’m currently learning **Full Stack Development & Competitive Programming**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **HTML,CSS & JavaScript**
 
-- 📫 How to reach me **parulbhandari125@gmail.com**
+- 📫 How to reach me **parulbhandari1205@gmail.com**
 
 - ⚡ Fun fact **I Think I Love To Code**
 
