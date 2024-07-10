@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi 👋, I'm PARUL BHANDARI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400" align="right">
 
@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **WordPress & FrontEnd Development alongside Data Analysis**
+- 🔭 I’m currently working on ** Web Design and Development alongside Data Analysis**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
