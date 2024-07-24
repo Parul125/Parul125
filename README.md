@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on ** Web Design and Development alongside Data Analysis**
+- 🔭 I’m currently working on **Web Design and Development alongside Data Analysis**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
