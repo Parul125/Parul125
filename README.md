@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **parulbhandari1205@gmail.com**
 
-- ⚡ Fun fact **I Think I DATASETS**
+- ⚡ Fun fact **I Think I love DATASETS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
